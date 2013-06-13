@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <opencv2/highgui/cap_ios.h>
-#import "/usr/include/sqlite3.h"
+#import <sqlite3.h>
 
 @interface CustomFaceRecognizer : NSObject
 {
